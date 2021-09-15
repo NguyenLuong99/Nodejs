@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "engines": {
-    "node": ">=6.9.0",
+    "node": "14.17.3",
     "npm":"7.22"
   },
   "private": true,
